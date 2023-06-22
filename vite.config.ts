@@ -12,4 +12,5 @@ export default defineConfig({
     }),
     fs(),
   ],
+  base:'blog-test/',
 })
